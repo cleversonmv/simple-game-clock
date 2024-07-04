@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cleversonmv/simple-game-clock/static/css/main.8b02d4dd.css",
+    "main.js": "/cleversonmv/simple-game-clock/static/js/main.677170b4.js",
+    "static/js/453.f6d97cf9.chunk.js": "/cleversonmv/simple-game-clock/static/js/453.f6d97cf9.chunk.js",
+    "static/media/OptimusPrincepsSemiBold.ttf": "/cleversonmv/simple-game-clock/static/media/OptimusPrincepsSemiBold.69061516ffcdb2039c7f.ttf",
+    "static/media/KiwiSoda.ttf": "/cleversonmv/simple-game-clock/static/media/KiwiSoda.deb2b86e2833d31468d5.ttf",
+    "static/media/OptimusPrinceps.ttf": "/cleversonmv/simple-game-clock/static/media/OptimusPrinceps.20e6750830b534d901f0.ttf",
+    "index.html": "/cleversonmv/simple-game-clock/index.html",
+    "main.8b02d4dd.css.map": "/cleversonmv/simple-game-clock/static/css/main.8b02d4dd.css.map",
+    "main.677170b4.js.map": "/cleversonmv/simple-game-clock/static/js/main.677170b4.js.map",
+    "453.f6d97cf9.chunk.js.map": "/cleversonmv/simple-game-clock/static/js/453.f6d97cf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b02d4dd.css",
+    "static/js/main.677170b4.js"
+  ]
+}
